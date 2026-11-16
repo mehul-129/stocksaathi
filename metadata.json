@@ -1,0 +1,6 @@
+{
+  "name": "StockSaathi",
+  "description": "Know which stock earns, and which sits idle. Monthly inventory, gross margin, slow stock, and action planning prototype.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
